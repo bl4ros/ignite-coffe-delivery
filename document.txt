@@ -1,0 +1,22 @@
+1 - Setar o Projeto
+    [x]- criar uma pasta "@types"
+        [x]criar um arquivo de configuração "styled.d.ts"
+        [x]definir tipos
+    - verificar o que será necessário de imagens
+    [x]- criar uma pasta components
+        será guardado arquivos que irão compor a página
+    [x]- criar pasta context 
+    [x]- criar pasta layouts
+        [x]criar uma pasta DefaultLayout com 
+         [x]- index.tsx
+         [x]- styles.ts
+    [x]- criar uma pasta pages
+    - criar uma pasta reducers se for necessário 
+    [x]- criar uma pasta styles
+        [x]- criar uma pasta themes
+            [x]- criar um arquivo default.ts
+        [x]- criar um arquivo global.ts
+    [x]- configurar o arquivo App
+    [x]- criar um arquivo Router.tsx
+    [x]- configurar um arquivo main.tsx
+    [x]- revisar instalação de bibliotecas e dependências
